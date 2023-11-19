@@ -38,7 +38,7 @@
     font-size: 20px;
     text-decoration: none; 
     user-select: none; 
-    background: rgb(150, 255, 155); 
+    background: rgb(243, 150, 255); 
     padding: .8em 2em; 
     outline: none; 
     text-align: center;
@@ -47,4 +47,33 @@
 .subscribe {
     margin-top: 50px;
     text-align: center;
+}
+
+.odkAuth img {
+    width: 50px;
+    margin-top: 5px;
+}
+
+.odkAuth p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.odkAuth input {
+    margin: 2px;
+}
+
+.loginButton {
+    background-color: rgb(213, 116, 26);
+    color: rgb(254, 253, 252);
+    border-width: 0px;
+    margin: 5px;
+    width: 150px;
+    font-size: 20px;
+}
+
+.odkAuth {
+    width: 180px;
+    border: 5px solid rgb(213, 116, 26);
+    text-align: center;
+    margin: 50px auto;
 }
