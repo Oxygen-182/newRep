@@ -28,3 +28,23 @@
     margin-top: 100px;
     text-align: center;
 }
+
+.subscribe p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.subscribe button {
+    color: #000000; 
+    font-size: 20px;
+    text-decoration: none; 
+    user-select: none; 
+    background: rgb(150, 255, 155); 
+    padding: .8em 2em; 
+    outline: none; 
+    text-align: center;
+}
+
+.subscribe {
+    margin-top: 50px;
+    text-align: center;
+}
