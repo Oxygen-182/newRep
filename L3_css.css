@@ -1,0 +1,30 @@
+.header img {
+    width: 100px;
+    background: #555;
+}
+.header h1 {
+    text-align: center;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.javaButton{
+    color: #fff; 
+    font-size: 20px;
+    text-decoration: none; 
+    user-select: none; 
+    background: rgb(77, 34, 194); 
+    padding: .8em 2em; 
+    outline: none; 
+    text-align: center;
+}
+
+.info p {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.info {
+    margin-top: 100px;
+    text-align: center;
+}
